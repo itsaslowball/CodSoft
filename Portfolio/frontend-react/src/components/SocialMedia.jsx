@@ -7,16 +7,6 @@ import {SiGeeksforgeeks} from 'react-icons/si'
 const SocialMedia = () => {
   return (
     <div className="app__social">
-      {/* <div>
-            <a href="https://leetcode.com/itsaslowball_leetcode/">
-            <SiLeetcode />
-            </a>
-        </div>
-        <div>
-            <a href="https://auth.geeksforgeeks.org/user/itsaslowball/practice">
-            <SiGeeksforgeeks />
-            </a>
-        </div> */}
       <div>
         <a href="https://www.linkedin.com/in/priyanshu-607693285/">
           <BsLinkedin />
